@@ -1,3 +1,3 @@
-FROM virtualmember/webapp
+FROM virtualmember/website
 ADD . /var/www/html
 
